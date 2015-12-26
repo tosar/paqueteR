@@ -8,10 +8,10 @@
 suma.dos.números(x, y)
 }
 \arguments{
-  \item{x}{
+\item{x}{
 Primer numero al que se le sumara el segundo
 }
-  \item{y}{
+\item{y}{
 Numero que se suma al primero
 }
 }
